@@ -3,7 +3,8 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use Illuminate\Support\Facades\Schema;
+use Illuminate\Support\Facades\Schema; //have to add this everytime a new project starts so annoying
+// otherwise error when you first migrate
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -20,6 +21,6 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        Schema::defaultStringLength(191);
+        Schema::defaultStringLength(191); //need to add this too every time lol
     }
 }
