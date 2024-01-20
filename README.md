@@ -55,9 +55,9 @@ VROOM VROOM [VROOOOOOM](https://laravel.com/docs/contributions).
 
 code of conduct [deez nuts](https://laravel.com/docs/contributions#code-of-conduct).
 
-## this assignment SUCKS
+## IF YOU SMELLLLLLLLAALALALOWW
 
-ur mum sucks too lmao [urmum@laravel.com](mailto:taylor@laravel.com). heres the proof
+WAT DA ROCK [iscooking@laravel.com](mailto:taylor@laravel.com). WOOOO YEAH ROCKY ROCKY ROCKY ROCKY *crowd goes crazy wooo*
 
 ## License
 
